@@ -8,4 +8,6 @@ Wine quality prediction is supervised learning project
 
 Credit card segmentation and supermarket segmentation are unsupervised learning, clustering projects
 
+Wine, NLP and much more using supervised NLP and unsupervised topic modelding techniques
+
 Web scraping data for project analysis using Python Scrapy xpath expression
