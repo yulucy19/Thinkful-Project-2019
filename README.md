@@ -1,5 +1,7 @@
 # Thinkful-Project-2019
 
+Sentiment Analysis for Amazon Review using Spark
+
 UK oil and gas production data exploration for data visulization, data exploration 
 
 Cookie cats project for A/B experiment test
